@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Harvard Referencing</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hchap</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-11-29T21:21:11Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %filltext:name=Author of chapter:default=Author of chapter%.  %fill:date%. %filltext:name=Title of Chapter:default=Title of Chapter%. In: %fill:editor%. 
+\i ed.
+\i0  
+\i %fill:title%
+\i0 . %filltext:name=edition:default=edition (if not first):width=2%. %filltext:name=pubplace:default=Place of publication%: %filltext:name=publisher:default=publisher%. pp. %filltext:name=page numbers:default=page numbers%}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Chapters in Edited books</string>
+			<key>lastUsed</key>
+			<date>2012-11-29T21:38:16Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%filltext:name=Author of chapter:default=Author of chapter%.  %fill:date%. %filltext:name=Title of Chapter:default=Title of Chapter%. In: %fill:editor%. ed. %fill:title%. %filltext:name=edition:default=edition (if not first):width=2%. %filltext:name=pubplace:default=Place of publication%: %filltext:name=publisher:default=publisher%. pp. %filltext:name=page numbers:default=page numbers%</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4GEASVm
+			aWxsdGV4dDpuYW1lPUF1dGhvciBvZiBjaGFwdGVyOmRlZmF1bHQ9
+			QXV0aG9yIG9mIGNoYXB0ZXIlLiAgJWZpbGw6ZGF0ZSUuICVmaWxs
+			dGV4dDpuYW1lPVRpdGxlIG9mIENoYXB0ZXI6ZGVmYXVsdD1UaXRs
+			ZSBvZiBDaGFwdGVyJS4gSW46ICVmaWxsOmVkaXRvciUuIGVkLiAl
+			ZmlsbDp0aXRsZSUuICVmaWxsdGV4dDpuYW1lPWVkaXRpb246ZGVm
+			YXVsdD1lZGl0aW9uIChpZiBub3QgZmlyc3QpOndpZHRoPTIlLiAl
+			ZmlsbHRleHQ6bmFtZT1wdWJwbGFjZTpkZWZhdWx0PVBsYWNlIG9m
+			IHB1YmxpY2F0aW9uJTogJWZpbGx0ZXh0Om5hbWU9cHVibGlzaGVy
+			OmRlZmF1bHQ9cHVibGlzaGVyJS4gcHAuICVmaWxsdGV4dDpuYW1l
+			PXBhZ2UgbnVtYmVyczpkZWZhdWx0PXBhZ2UgbnVtYmVycyWGhAJp
+			SQGBmQCShISEDE5TRGljdGlvbmFyeQCUhAFpApKElpYQTlNQYXJh
+			Z3JhcGhTdHlsZYaShISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NA
+			UwAAhISEB05TQXJyYXkAlJkMkoSEhAlOU1RleHRUYWIAlIQCQ2YA
+			HIaShJ+eADiGkoSfngBUhpKEn54AcIaShJ+eAIGMAIaShJ+eAIGo
+			AIaShJ+eAIHEAIaShJ+eAIHgAIaShJ+eAIH8AIaShJ+eAIEYAYaS
+			hJ+eAIE0AYaShJ+eAIFQAYaGgQAIhARbMWZdg83MTD2GkoSWlgZO
+			U0ZvbnSGkoSEhAZOU0ZvbnQelJkchAVbMjhjXQYAAAAUAAAA//5I
+			AGUAbAB2AGUAdABpAGMAYQCEAWYMhAFjAKMBowCjAIaGlwIDkoSY
+			mQKSmZKEm5sAAISdmQySnpKgkqGSopKjkqSSpZKmkqeSqJKpkqqG
+			gQAIn4PNzEw9hpKrkoStmSyEBVs0NGNdBgAAACQAAAD//kgAZQBs
+			AHYAZQB0AGkAYwBhAC0ATwBiAGwAaQBxAHUAZQCiDKMAowGjAKMA
+			hoaXAQGXAgyXAYHbAIY=
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>2B2B650D-9FD1-4DF9-944B-D94346120F02</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hinternet</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T22:58:28Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %fill:author%. %fill:date%. 
+\i %fill:Title%
+\i0 . [On-line]. %fill:publisher%. Available from: \ul %fill:url%\ulnone  [Accessed %fill:day% %fill:month% %fill:year%].}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Internet Page</string>
+			<key>lastUsed</key>
+			<date>2012-11-29T13:42:08Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%fill:author%. %fill:date%. %fill:Title%. [On-line]. %fill:publisher%. Available from: %fill:url% [Accessed %fill:day% %fill:month% %fill:year%].</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4GRACVm
+			aWxsOmF1dGhvciUuICVmaWxsOmRhdGUlLiAlZmlsbDpUaXRsZSUu
+			IFtPbi1saW5lXS4gJWZpbGw6cHVibGlzaGVyJS4gQXZhaWxhYmxl
+			IGZyb206ICVmaWxsOnVybCUgW0FjY2Vzc2VkICVmaWxsOmRheSUg
+			JWZpbGw6bW9udGglICVmaWxsOnllYXIlXS6GhAJpSQEckoSEhAxO
+			U0RpY3Rpb25hcnkAlIQBaQKShJaWEE5TUGFyYWdyYXBoU3R5bGWG
+			koSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMAAISEhAdOU0Fy
+			cmF5AJSZDJKEhIQJTlNUZXh0VGFiAJSEAkNmAByGkoSfngA4hpKE
+			n54AVIaShJ+eAHCGkoSfngCBjACGkoSfngCBqACGkoSfngCBxACG
+			koSfngCB4ACGkoSfngCB/ACGkoSfngCBGAGGkoSfngCBNAGGkoSf
+			ngCBUAGGhoEACIQEWzFmXYPNzEw9hpKElpYGTlNGb250hpKEhIQG
+			TlNGb250HpSZHIQFWzI4Y10GAAAAFAAAAP/+SABlAGwAdgBlAHQA
+			aQBjAGEAhAFmDIQBYwCjAaMAowCGhpcCDJKEmJkCkpmSmpKrkoSt
+			mSyEBVs0NGNdBgAAACQAAAD//kgAZQBsAHYAZQB0AGkAYwBhAC0A
+			TwBiAGwAaQBxAHUAZQCiDKMAowGjAKMAhoaXAS+XAwqShJiZA5KE
+			lpYLTlNVbmRlcmxpbmWGkoSEhAhOU051bWJlcgCEhAdOU1ZhbHVl
+			AJSEASqEhAFxqAGGkpmSmpKrkqyGlwEwhg==
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>15</integer>
+			<key>uuidString</key>
+			<string>AFFA1307-96AD-4D41-AC5D-4C8234E318D0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hebook</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T22:29:37Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %fill:editor%. 
+\i ed.
+\i0  %fill:date%. 
+\i %fill:title%
+\i0 . %filltext:name=edition:default=edition (if not first):width=2%. %filltext:name=pubplace:default=Place of publication%: %filltext:name=publisher:default=publisher%.}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Edited Book</string>
+			<key>lastUsed</key>
+			<date>2012-09-27T23:14:03Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%fill:editor%. ed. %fill:date%. %fill:title%. %filltext:name=edition:default=edition (if not first):width=2%. %filltext:name=pubplace:default=Place of publication%: %filltext:name=publisher:default=publisher%.</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4HRACVm
+			aWxsOmVkaXRvciUuIGVkLiAlZmlsbDpkYXRlJS4gJWZpbGw6dGl0
+			bGUlLiAlZmlsbHRleHQ6bmFtZT1lZGl0aW9uOmRlZmF1bHQ9ZWRp
+			dGlvbiAoaWYgbm90IGZpcnN0KTp3aWR0aD0yJS4gJWZpbGx0ZXh0
+			Om5hbWU9cHVicGxhY2U6ZGVmYXVsdD1QbGFjZSBvZiBwdWJsaWNh
+			dGlvbiU6ICVmaWxsdGV4dDpuYW1lPXB1Ymxpc2hlcjpkZWZhdWx0
+			PXB1Ymxpc2hlciUuhoQCaUkBD5KEhIQMTlNEaWN0aW9uYXJ5AJSE
+			AWkCkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3Jh
+			cGhTdHlsZQCUhARDQ0BTAACEhIQHTlNBcnJheQCUmQyShISECU5T
+			VGV4dFRhYgCUhAJDZgAchpKEn54AOIaShJ+eAFSGkoSfngBwhpKE
+			n54AgYwAhpKEn54AgagAhpKEn54AgcQAhpKEn54AgeAAhpKEn54A
+			gfwAhpKEn54AgRgBhpKEn54AgTQBhpKEn54AgVABhoaBAAiEBFsx
+			Zl2DzcxMPYaShJaWBk5TRm9udIaShISEBk5TRm9udB6UmRyEBVsy
+			OGNdBgAAABQAAAD//kgAZQBsAHYAZQB0AGkAYwBhAIQBZgyEAWMA
+			owGjAKMAhoaXAgOShJiZApKZkoSbmwAAhJ2ZDJKekqCSoZKikqOS
+			pJKlkqaSp5KokqmSqoaBAAifg83MTD2GkquShK2ZLIQFWzQ0Y10G
+			AAAAJAAAAP/+SABlAGwAdgBlAHQAaQBjAGEALQBPAGIAbABpAHEA
+			dQBlAKIMowCjAaMAowCGhpcBDpcCDJcBgaUAhg==
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>A1711624-713F-4F4B-93BD-462084EC4FC9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hojourn</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T18:45:40Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %fill:author%. %fill:date%. %fill:title%. 
+\i %fill:journaltitle%
+\i0 , %fill:volnumber% (%fill:issuenumber%), pp. %fill:pagenumbers%. [On-line] %fill:databasename%. Available from: %fill:url% [Accessed %filltext:name=day:default=day% %filltext:name=month:default=month% %filltext:name=year:default=year%]}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Online journal</string>
+			<key>lastUsed</key>
+			<date>2012-11-29T13:59:43Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%fill:author%. %fill:date%. %fill:title%. %fill:journaltitle%, %fill:volnumber% (%fill:issuenumber%), pp. %fill:pagenumbers%. [On-line] %fill:databasename%. Available from: %fill:url% [Accessed %filltext:name=day:default=day% %filltext:name=month:default=month% %filltext:name=year:default=year%]</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4EoASVm
+			aWxsOmF1dGhvciUuICVmaWxsOmRhdGUlLiAlZmlsbDp0aXRsZSUu
+			ICVmaWxsOmpvdXJuYWx0aXRsZSUsICVmaWxsOnZvbG51bWJlciUg
+			KCVmaWxsOmlzc3VlbnVtYmVyJSksIHBwLiAlZmlsbDpwYWdlbnVt
+			YmVycyUuIFtPbi1saW5lXSAlZmlsbDpkYXRhYmFzZW5hbWUlLiBB
+			dmFpbGFibGUgZnJvbTogJWZpbGw6dXJsJSBbQWNjZXNzZWQgJWZp
+			bGx0ZXh0Om5hbWU9ZGF5OmRlZmF1bHQ9ZGF5JSAlZmlsbHRleHQ6
+			bmFtZT1tb250aDpkZWZhdWx0PW1vbnRoJSAlZmlsbHRleHQ6bmFt
+			ZT15ZWFyOmRlZmF1bHQ9eWVhciVdhoQCaUkBKpKEhIQMTlNEaWN0
+			aW9uYXJ5AJSEAWkCkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQ
+			TlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAACEhIQHTlNBcnJheQCU
+			mQyShISECU5TVGV4dFRhYgCUhAJDZgAchpKEn54AOIaShJ+eAFSG
+			koSfngBwhpKEn54AgYwAhpKEn54AgagAhpKEn54AgcQAhpKEn54A
+			geAAhpKEn54AgfwAhpKEn54AgRgBhpKEn54AgTQBhpKEn54AgVAB
+			hoaBAAiEBFsxZl2DzcxMPYaShJaWBk5TRm9udIaShISEBk5TRm9u
+			dB6UmRyEBVsyOGNdBgAAABQAAAD//kgAZQBsAHYAZQB0AGkAYwBh
+			AIQBZgyEAWMAowGjAKMAhoaXAhOShJiZApKZkpqSq5KErZkshAVb
+			NDRjXQYAAAAkAAAA//5IAGUAbAB2AGUAdABpAGMAYQAtAE8AYgBs
+			AGkAcQB1AGUAogyjAKMBowCjAIaGlwGB6wCG
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>934DDB5A-0FA1-423E-9C35-CA0C63C3467F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hpjourn</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T18:43:21Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %fill:author%. %fill:date%. 
+\i %
+\i0 fill:title
+\i %
+\i0 . 
+\i %fill:journaltitle%
+\i0 , %fill:volnumber% (%fill:issuenumber%), pp. %fill:pagenumbers%}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Print Journal</string>
+			<key>lastUsed</key>
+			<date>2012-09-27T23:07:44Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:05Z</date>
+			<key>plainText</key>
+			<string>%fill:author%. %fill:date%. %fill:title%. %fill:journaltitle%, %fill:volnumber% (%fill:issuenumber%), pp. %fill:pagenumbers%</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK3wlZmls
+			bDphdXRob3IlLiAlZmlsbDpkYXRlJS4gJWZpbGw6dGl0bGUlLiAl
+			ZmlsbDpqb3VybmFsdGl0bGUlLCAlZmlsbDp2b2xudW1iZXIlICgl
+			ZmlsbDppc3N1ZW51bWJlciUpLCBwcC4gJWZpbGw6cGFnZW51bWJl
+			cnMlhoQCaUkBHJKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSWlhBO
+			U1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+			hARDQ0BTAACEhIQHTlNBcnJheQCUmQyShISECU5TVGV4dFRhYgCU
+			hAJDZgAchpKEn54AOIaShJ+eAFSGkoSfngBwhpKEn54AgYwAhpKE
+			n54AgagAhpKEn54AgcQAhpKEn54AgeAAhpKEn54AgfwAhpKEn54A
+			gRgBhpKEn54AgTQBhpKEn54AgVABhoaBAAiEBFsxZl2DzcxMPYaS
+			hJaWBk5TRm9udIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAAABQA
+			AAD//kgAZQBsAHYAZQB0AGkAYwBhAIQBZgyEAWMAowGjAKMAhoaX
+			AgGShJiZApKZkoSbmwAAhJ2ZDJKekqCSoZKikqOSpJKlkqaSp5Ko
+			kqmSqoaBAAifg83MTD2GkquShK2ZLIQFWzQ0Y10GAAAAJAAAAP/+
+			SABlAGwAdgBlAHQAaQBjAGEALQBPAGIAbABpAHEAdQBlAKIMowCj
+			AaMAowCGhpcBCpcCAZcBApcCE5cBP4Y=
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>9731F4C8-9FF1-44BC-8C0A-36C4CC359DB3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hbook</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T18:35:00Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %filltext:name=Author:default=Author%. %filltext:name=Date:default=Date%. 
+\i %fill:Title%
+\i0  %filltext:name=Edition:default=Edition (if not first)%. %filltext:name=pubplace:default=Place of publication%: %filltext:name=publisher:default=publisher%}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Authored book (print)</string>
+			<key>lastUsed</key>
+			<date>2012-11-29T12:30:01Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%filltext:name=Author:default=Author%. %filltext:name=Date:default=Date%. %fill:Title% %filltext:name=Edition:default=Edition (if not first)%. %filltext:name=pubplace:default=Place of publication%: %filltext:name=publisher:default=publisher%</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4HxACVm
+			aWxsdGV4dDpuYW1lPUF1dGhvcjpkZWZhdWx0PUF1dGhvciUuICVm
+			aWxsdGV4dDpuYW1lPURhdGU6ZGVmYXVsdD1EYXRlJS4gJWZpbGw6
+			VGl0bGUlICVmaWxsdGV4dDpuYW1lPUVkaXRpb246ZGVmYXVsdD1F
+			ZGl0aW9uIChpZiBub3QgZmlyc3QpJS4gJWZpbGx0ZXh0Om5hbWU9
+			cHVicGxhY2U6ZGVmYXVsdD1QbGFjZSBvZiBwdWJsaWNhdGlvbiU6
+			ICVmaWxsdGV4dDpuYW1lPXB1Ymxpc2hlcjpkZWZhdWx0PXB1Ymxp
+			c2hlciWGhAJpSQFKkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaW
+			EE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxl
+			AJSEBENDQFMAAISEhAdOU0FycmF5AJSZDJKEhIQJTlNUZXh0VGFi
+			AJSEAkNmAByGkoSfngA4hpKEn54AVIaShJ+eAHCGkoSfngCBjACG
+			koSfngCBqACGkoSfngCBxACGkoSfngCB4ACGkoSfngCB/ACGkoSf
+			ngCBGAGGkoSfngCBNAGGkoSfngCBUAGGhoEACIQEWzFmXYPNzEw9
+			hpKElpYGTlNGb250hpKEhIQGTlNGb250HpSZHIQFWzI4Y10GAAAA
+			FAAAAP/+SABlAGwAdgBlAHQAaQBjAGEAhAFmDIQBYwCjAaMAowCG
+			hpcCDJKEmJkCkpmShJubAACEnZkMkp6SoJKhkqKSo5KkkqWSppKn
+			kqiSqZKqhoEACJ+DzcxMPYaSq5KErZkshAVbNDRjXQYAAAAkAAAA
+			//5IAGUAbAB2AGUAdABpAGMAYQAtAE8AYgBsAGkAcQB1AGUAogyj
+			AKMBowCjAIaGlwGBmwCG
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>3</integer>
+			<key>uuidString</key>
+			<string>E39C6D5F-AE70-4B9C-8BFF-AE838D38E8DD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hact</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T18:31:07Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %filltext:name=actname:default=Name of act% %filltext:name=actdate:default=date of act%, %filltext:name=actparts:default=parts if applicable%. [On-line]. %filltext:name=databasename:default=name of database%. Available from: \ul %filltext:name=url:default=url%\ulnone   [Accessed %filltext:name=day:default=day% %filltext:name=month:default=month% %filltext:name=year:default=year%]}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Act of Parliament</string>
+			<key>lastUsed</key>
+			<date>2012-09-28T12:54:37Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%filltext:name=actname:default=Name of act% %filltext:name=actdate:default=date of act%, %filltext:name=actparts:default=parts if applicable%. [On-line]. %filltext:name=databasename:default=name of database%. Available from: %filltext:name=url:default=url%  [Accessed %filltext:name=day:default=day% %filltext:name=month:default=month% %filltext:name=year:default=year%]</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4FyASVm
+			aWxsdGV4dDpuYW1lPWFjdG5hbWU6ZGVmYXVsdD1OYW1lIG9mIGFj
+			dCUgJWZpbGx0ZXh0Om5hbWU9YWN0ZGF0ZTpkZWZhdWx0PWRhdGUg
+			b2YgYWN0JSwgJWZpbGx0ZXh0Om5hbWU9YWN0cGFydHM6ZGVmYXVs
+			dD1wYXJ0cyBpZiBhcHBsaWNhYmxlJS4gW09uLWxpbmVdLiAlZmls
+			bHRleHQ6bmFtZT1kYXRhYmFzZW5hbWU6ZGVmYXVsdD1uYW1lIG9m
+			IGRhdGFiYXNlJS4gQXZhaWxhYmxlIGZyb206ICVmaWxsdGV4dDpu
+			YW1lPXVybDpkZWZhdWx0PXVybCUgIFtBY2Nlc3NlZCAlZmlsbHRl
+			eHQ6bmFtZT1kYXk6ZGVmYXVsdD1kYXklICVmaWxsdGV4dDpuYW1l
+			PW1vbnRoOmRlZmF1bHQ9bW9udGglICVmaWxsdGV4dDpuYW1lPXll
+			YXI6ZGVmYXVsdD15ZWFyJV2GhAJpSQGB4QCShISEDE5TRGljdGlv
+			bmFyeQCUhAFpApKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEEE5T
+			UGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwAAhISEB05TQXJyYXkAlJkM
+			koSEhAlOU1RleHRUYWIAlIQCQ2YAHIaShJ+eADiGkoSfngBUhpKE
+			n54AcIaShJ+eAIGMAIaShJ+eAIGoAIaShJ+eAIHEAIaShJ+eAIHg
+			AIaShJ+eAIH8AIaShJ+eAIEYAYaShJ+eAIE0AYaShJ+eAIFQAYaG
+			gQAIhARbMWZdg83MTD2GkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQe
+			lJkchAVbMjhjXQYAAAAUAAAA//5IAGUAbAB2AGUAdABpAGMAYQCE
+			AWYMhAFjAKMBowCjAIaGlwIfkoSYmQOShJaWC05TVW5kZXJsaW5l
+			hpKEhIQITlNOdW1iZXIAhIQHTlNWYWx1ZQCUhAEqhIQBcacBhpKZ
+			kpqSq5KshpcBcoY=
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>5</integer>
+			<key>uuidString</key>
+			<string>87BACE42-D3DF-486F-9787-0E10B8AF2699</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~habstract</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T18:23:25Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %fill:Author%. %fill:year%. %filltext:name=Title:default=Title of Article%. 
+\i %filltext:name=journal:default=Title of Journal%
+\i0 , %filltext:name=volnumber:default=Volume number% (%filltext:name=issuenumber:default=Issue Number%), pp. %filltext:name=pages:default=Page numbers%. [On-line abstract]. %filltext:name=database:default=name of database%. Available from \ul %filltext:name=url:default=url%\ulnone  [Accessed %filltext:name=day:default=day% %filltext:name=month:default=month% %filltext:name=year:default=year%}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Abstract</string>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%fill:Author%. %fill:year%. %filltext:name=Title:default=Title of Article%. %filltext:name=journal:default=Title of Journal%, %filltext:name=volnumber:default=Volume number% (%filltext:name=issuenumber:default=Issue Number%), pp. %filltext:name=pages:default=Page numbers%. [On-line abstract]. %filltext:name=database:default=name of database%. Available from %filltext:name=url:default=url% [Accessed %filltext:name=day:default=day% %filltext:name=month:default=month% %filltext:name=year:default=year%</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4H3ASVm
+			aWxsOkF1dGhvciUuICVmaWxsOnllYXIlLiAlZmlsbHRleHQ6bmFt
+			ZT1UaXRsZTpkZWZhdWx0PVRpdGxlIG9mIEFydGljbGUlLiAlZmls
+			bHRleHQ6bmFtZT1qb3VybmFsOmRlZmF1bHQ9VGl0bGUgb2YgSm91
+			cm5hbCUsICVmaWxsdGV4dDpuYW1lPXZvbG51bWJlcjpkZWZhdWx0
+			PVZvbHVtZSBudW1iZXIlICglZmlsbHRleHQ6bmFtZT1pc3N1ZW51
+			bWJlcjpkZWZhdWx0PUlzc3VlIE51bWJlciUpLCBwcC4gJWZpbGx0
+			ZXh0Om5hbWU9cGFnZXM6ZGVmYXVsdD1QYWdlIG51bWJlcnMlLiBb
+			T24tbGluZSBhYnN0cmFjdF0uICVmaWxsdGV4dDpuYW1lPWRhdGFi
+			YXNlOmRlZmF1bHQ9bmFtZSBvZiBkYXRhYmFzZSUuIEF2YWlsYWJs
+			ZSBmcm9tICVmaWxsdGV4dDpuYW1lPXVybDpkZWZhdWx0PXVybCUg
+			W0FjY2Vzc2VkICVmaWxsdGV4dDpuYW1lPWRheTpkZWZhdWx0PWRh
+			eSUgJWZpbGx0ZXh0Om5hbWU9bW9udGg6ZGVmYXVsdD1tb250aCUg
+			JWZpbGx0ZXh0Om5hbWU9eWVhcjpkZWZhdWx0PXllYXIlhoQCaUkB
+			TJKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSWlhBOU1BhcmFncmFw
+			aFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAACE
+			hIQHTlNBcnJheQCUmQyShISECU5TVGV4dFRhYgCUhAJDZgAchpKE
+			n54AOIaShJ+eAFSGkoSfngBwhpKEn54AgYwAhpKEn54AgagAhpKE
+			n54AgcQAhpKEn54AgeAAhpKEn54AgfwAhpKEn54AgRgBhpKEn54A
+			gTQBhpKEn54AgVABhoaBAAiEBFsxZl2DzcxMPYaShJaWBk5TRm9u
+			dIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAAABQAAAD//kgAZQBs
+			AHYAZQB0AGkAYwBhAIQBZgyEAWMAowGjAKMAhoaXAjCShJiZApKZ
+			kpqSq5KErZkshAVbNDRjXQYAAAAkAAAA//5IAGUAbAB2AGUAdABp
+			AGMAYQAtAE8AYgBsAGkAcQB1AGUAogyjAKMBowCjAIaGlwGB7ACX
+			Ax+ShJiZA5KElpYLTlNVbmRlcmxpbmWGkoSEhAhOU051bWJlcgCE
+			hAdOU1ZhbHVlAJSEASqEhAFxqAGGkpmSmpKrkqyGlwFwhg==
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>D2DFF6A3-C26D-4383-8ACD-83782B5F6F02</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~honline</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T18:11:38Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %fill:author%. %fill:date%. 
+\i %fill:title%
+\i0 . [On-line]. %fill:publisher%. Available from: \ul %fill:url%\ulnone  [Accessed %fill:day% %fill:month% %fill:year%].}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Online sources</string>
+			<key>lastUsed</key>
+			<date>2012-11-29T13:44:42Z</date>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%fill:author%. %fill:date%. %fill:title%. [On-line]. %fill:publisher%. Available from: %fill:url% [Accessed %fill:day% %fill:month% %fill:year%].</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4GRACVm
+			aWxsOmF1dGhvciUuICVmaWxsOmRhdGUlLiAlZmlsbDp0aXRsZSUu
+			IFtPbi1saW5lXS4gJWZpbGw6cHVibGlzaGVyJS4gQXZhaWxhYmxl
+			IGZyb206ICVmaWxsOnVybCUgW0FjY2Vzc2VkICVmaWxsOmRheSUg
+			JWZpbGw6bW9udGglICVmaWxsOnllYXIlXS6GhAJpSQEckoSEhAxO
+			U0RpY3Rpb25hcnkAlIQBaQKShJaWEE5TUGFyYWdyYXBoU3R5bGWG
+			koSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMAAISEhAdOU0Fy
+			cmF5AJSZDJKEhIQJTlNUZXh0VGFiAJSEAkNmAByGkoSfngA4hpKE
+			n54AVIaShJ+eAHCGkoSfngCBjACGkoSfngCBqACGkoSfngCBxACG
+			koSfngCB4ACGkoSfngCB/ACGkoSfngCBGAGGkoSfngCBNAGGkoSf
+			ngCBUAGGhoEACIQEWzFmXYPNzEw9hpKElpYGTlNGb250hpKEhIQG
+			TlNGb250HpSZHIQFWzI4Y10GAAAAFAAAAP/+SABlAGwAdgBlAHQA
+			aQBjAGEAhAFmDIQBYwCjAaMAowCGhpcCDJKEmJkCkpmSmpKrkoSt
+			mSyEBVs0NGNdBgAAACQAAAD//kgAZQBsAHYAZQB0AGkAYwBhAC0A
+			TwBiAGwAaQBxAHUAZQCiDKMAowGjAKMAhoaXAS+XAwqShJiZA5KE
+			lpYLTlNVbmRlcmxpbmWGkoSEhAhOU051bWJlcgCEhAdOU1ZhbHVl
+			AJSEASqEhAFxqAGGkpmSmpKrkqyGlwEwhg==
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>10</integer>
+			<key>uuidString</key>
+			<string>3F4649AD-88F1-442F-8BE5-CA43C197C873</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>~hprint</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2012-09-27T07:35:45Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 %fill:author%. %fill:year%. 
+\i %fill:title%
+\i0 . %fill:publicationplace%: %fill:publisher%.}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>print sources</string>
+			<key>modificationDate</key>
+			<date>2012-11-29T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%fill:author%. %fill:year%. %fill:title%. %fill:publicationplace%: %fill:publisher%.</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK1QlZmls
+			bDphdXRob3IlLiAlZmlsbDp5ZWFyJS4gJWZpbGw6dGl0bGUlLiAl
+			ZmlsbDpwdWJsaWNhdGlvbnBsYWNlJTogJWZpbGw6cHVibGlzaGVy
+			JS6GhAJpSQEckoSEhAxOU0RpY3Rpb25hcnkAlIQBaQKShJaWEE5T
+			UGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJSE
+			BENDQFMAAISEhAdOU0FycmF5AJSZDJKEhIQJTlNUZXh0VGFiAJSE
+			AkNmAByGkoSfngA4hpKEn54AVIaShJ+eAHCGkoSfngCBjACGkoSf
+			ngCBqACGkoSfngCBxACGkoSfngCB4ACGkoSfngCB/ACGkoSfngCB
+			GAGGkoSfngCBNAGGkoSfngCBUAGGhoEACIQEWzFmXYPNzEw9hpKE
+			lpYGTlNGb250hpKEhIQGTlNGb250HpSZHIQFWzI4Y10GAAAAFAAA
+			AP/+SABlAGwAdgBlAHQAaQBjAGEAhAFmDIQBYwCjAaMAowCGhpcC
+			DJKEmJkCkpmSmpKrkoStmSyEBVs0NGNdBgAAACQAAAD//kgAZQBs
+			AHYAZQB0AGkAYwBhAC0ATwBiAGwAaQBxAHUAZQCiDKMAowGjAKMA
+			hoaXASyG
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>63D626DA-1F38-4CD8-BF76-47B07EE28A2B</string>
+		</dict>
+	</array>
+</dict>
+</plist>
